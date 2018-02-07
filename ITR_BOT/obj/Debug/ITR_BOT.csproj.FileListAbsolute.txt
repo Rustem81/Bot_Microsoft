@@ -1,0 +1,44 @@
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\Bot Application.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\Bot Application.pdb
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\Autofac.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\Chronic.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\Microsoft.Bot.Builder.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\Microsoft.Bot.Connector.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\Newtonsoft.Json.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\System.Net.Http.Formatting.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\System.Web.Http.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\System.Web.Http.WebHost.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\Autofac.xml
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\Microsoft.Bot.Builder.xml
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\Microsoft.Bot.Connector.xml
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\Newtonsoft.Json.xml
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\System.Net.Http.Formatting.xml
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\System.Web.Http.xml
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\System.Web.Http.WebHost.xml
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\obj\Debug\ITR_BOT.csprojResolveAssemblyReference.cache
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\obj\Debug\ITR_BOT.csproj.CoreCompileInputs.cache
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\obj\Debug\Bot Application.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\obj\Debug\Bot Application.pdb
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\Bot Application.dll.config
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\RestSharp.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\YandexLinguistics.NET.dll
+C:\Users\Rus\source\repos\ITR_BOT\ITR_BOT\bin\RestSharp.xml
